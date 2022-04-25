@@ -8,6 +8,7 @@ More about me: www.mastercodelatam.com 👽 иностранец 🛸
 
 *   🌍  I'm based in Guayaquil
 *   ✉️  You can contact me at [ventas@mastercodelatam.com](mailto:ventas@mastercodelatam.com)<a href="https://www.twitter.com/JosueMasterCode" target="_blank" rel="noreferrer">
+
 <img src="https://img.shields.io/twitter/follow/JosueMasterCode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 <a href="https://www.github.com/mastercodelatam" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/mastercodelatam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
