@@ -1,7 +1,7 @@
 Hi 👋 My name is 🛸 Josue Acosta 👽
 ===================================
 
-Web Developer
+Web Developer - Full Stack
 -------------
 
 More about me: www.mastercodelatam.com 👽 иностранец 🛸
